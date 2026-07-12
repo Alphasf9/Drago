@@ -74,7 +74,7 @@ setInterval(() => {
         }, 500);
     }
 
-}, 10);
+},
 
 
 function updateScore(score) {
